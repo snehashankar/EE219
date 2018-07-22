@@ -1,4 +1,4 @@
-# EE219
+# Large Scale Data Mining
 This repository contains projects from Large Scale Data Mining course at UCLA.  
 
 Project1 - Classification Analysis   
